@@ -14,7 +14,7 @@
     <PackageReference Include="Nethereum.Contracts" Version="3.8.0" />
     <PackageReference Include="Nethereum.HdWallet" Version="3.8.0" />
     <PackageReference Include="Nethereum.Web3" Version="3.8.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="3.1.4" />
     <PackageReference Include="OKEx.Net" Version="1.2.0" />
     <PackageReference Include="Serilog.AspNetCore" Version="3.4.0" />
